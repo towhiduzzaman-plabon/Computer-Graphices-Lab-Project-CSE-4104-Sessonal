@@ -3,7 +3,7 @@
 An interactive 2D/3D graphics simulation of BAUST Campus using Python OpenGL and GLUT.
 
 ## 🔴 Live Preview
-![BAUST Simulation Preview](demo.gif)
+demo.gif
 
 ## Key Features
 - **Official BAUST Architecture**: Complete academic facade with vector crest logo and vertical banner.
