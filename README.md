@@ -22,9 +22,11 @@ An interactive 2D/3D graphics simulation of BAUST Campus using Python OpenGL and
 - `Arrow Keys`: Move 3D camera (X & Z axes)
 - `A` / `B`: Adjust camera height (Y-axis)
 
+
 ## 🚀 How to Run Locally
+
 ```bash
-git clone https://github.com/towhiduzzaman-plabon/Computer-Graphices-Lab-Project-CSE-4104-Sessonal.git https://github.com/towhiduzzaman-plabon/Computer-Graphices-Lab-Project-CSE-4104-Sessonal.git
+git clone [https://github.com/towhiduzzaman-plabon/Computer-Graphices-Lab-Project-CSE-4104-Sessonal.git](https://github.com/towhiduzzaman-plabon/Computer-Graphices-Lab-Project-CSE-4104-Sessonal.git)
 cd Computer-Graphices-Lab-Project-CSE-4104-Sessonal
 pip install -r requirements.txt
 python main.py
