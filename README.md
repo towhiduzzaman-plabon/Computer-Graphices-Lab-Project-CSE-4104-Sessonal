@@ -3,7 +3,8 @@
 An interactive 2D/3D graphics simulation of BAUST Campus using Python OpenGL and GLUT.
 
 ## 🔴 Live Preview
-<img width="800" height="450" alt="demo" src="https://github.com/user-attachments/assets/cbf11370-3ff8-4c6f-9278-1ceac94c3209" />
+<img width="800" height="450" alt="demo" src="https://github.com/user-attachments/assets/9358023a-1b3a-418e-a5c5-4acc016f6046" />
+
 
 
 
